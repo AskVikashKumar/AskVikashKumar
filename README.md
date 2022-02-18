@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikash Kumar Mahapatra ( Github-Id AskVikashKumar)
-- 🌱 I’m currently learning and junior developer ...
+- 🌱 I’m currently learning data science
 - 📫 How to reach me ...ask4vikashk@gmail.com
 <!---
 AskVikashKumar/AskVikashKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
