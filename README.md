@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Vikash Kumar Mahapatra ( Github-Id AskVikashKumar)
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning Selenium with Python
 - 📫 How to reach me ...ask4vikashk@gmail.com
+#Idea Related
+SQL Python Pandas Javascript Power-Bi
 
 
 <!---
