@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikash Kumar Mahapatra ( Github-Id AskVikashKumar)
-- 🌱 I’m currently learning Selenium with Python
+- 🌱 I’m currently learning Azure Cloud
 - 📫 How to reach me ...ask4vikashk@gmail.com
-- Some Working Knowledge on SQL Python Pandas Javascript Power-Bi Visual Studio
+- Some Working Knowledge on SQL Python Pandas  Power-Bi Visual Studio
 
 
 <!---
